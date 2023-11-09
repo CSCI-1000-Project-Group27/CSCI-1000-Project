@@ -37,7 +37,7 @@ export default function Home() {
             <p>Click here ...</p>
           </a>
 
-           <a href='/Nikki ' className='card'>
+           <a href='/NicoleHanson ' className='card'>
             <h3> Nikki's Page&rarr;</h3>
             <p>Click here ...</p>
           </a>
