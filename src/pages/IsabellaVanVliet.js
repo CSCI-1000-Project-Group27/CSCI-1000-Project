@@ -12,7 +12,7 @@ export default function examplePage() {
           <img
             className='pic'
             src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            alt='belle van vliet'
           />
 
           <p className='description'>
