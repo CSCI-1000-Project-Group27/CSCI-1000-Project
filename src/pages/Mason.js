@@ -1,4 +1,3 @@
-
 export default function examplePage() {
     return (
       <div className='container'>
@@ -7,16 +6,16 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Belle. </h1>
+            <h1 className='title'>Hey, I'm Mason Choi </h1>
           </div>
           <img
             className='pic'
-            src='https://postimg.cc/pmMq4KHm'
-            alt='belle van vliet'
+            src='https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Colorado_Buffaloes_logo.svg/1200px-Colorado_Buffaloes_logo.svg.png'
+            alt='tom holland'
           />
 
           <p className='description'>
-            Hey I am Belle!"
+            https://charming-biscochitos-c37577.netlify.app/
           </p>
 
           <a className='button' href='/'>

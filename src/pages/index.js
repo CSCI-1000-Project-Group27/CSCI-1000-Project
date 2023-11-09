@@ -27,6 +27,11 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
 
+          <a href='/Mason ' className='card'>
+            <h3> Mason's Page&rarr;</h3>
+            <p>Click here ...</p>
+          </a>
+
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
@@ -219,4 +224,9 @@ export default function Home() {
     </div>
   );
 }
+
+<!--Comments!-->
+<!--Alex's link https://app.netlify.com/sites/clinquant-gumption-a9cb53/deploys/654c5a314131302be5f0a0a3-->
+  <!--Nikki's link https://app.netlify.com/teams/niha7795/overview-->
+<!--Max's link https://app.netlify.com/sites/effortless-kleicha-1d4e10/deploys/654c5c025df64f2b7ce9ff33-->
 
