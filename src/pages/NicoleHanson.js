@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='C:\Users\hanso\OneDrive\Pictures\Headshot.png'
+            src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Colorado_Buffaloes_wordmark.svg/1920px-Colorado_Buffaloes_wordmark.svg.png'
             alt='Nikki Hanson'
           />
 
