@@ -48,7 +48,7 @@ export default function Home() {
             <p>Click here ...</p>
           </a>
           <a href='/MaxBusboom ' className='card'>
-            <h3> Nikki's Page&rarr;</h3>
+            <h3> Max's page&rarr;</h3>
             <p>Click here ...</p>
           </a>
           <a
