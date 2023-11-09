@@ -41,7 +41,10 @@ export default function Home() {
             <h3> Nikki's Page&rarr;</h3>
             <p>Click here ...</p>
           </a>
-
+          <a href='MaxBusboom.js' className='card'>
+            <h3> Nikki's Page&rarr;</h3>
+            <p>Click here ...</p>
+          </a>
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
