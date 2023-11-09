@@ -16,7 +16,8 @@ export default function examplePage() {
 
           <p className='description'>
            Hey, I am a computer science major at CU Boulder! I like Dungeons and Dragons, programming, fiction writing, and gaming. 
-            I aspire to make games someday or be a cyber security analyst."
+            I aspire to make games someday or be a cyber security analyst.
+            My Link: https://app.netlify.com/teams/niha7795/overview"
           </p>
 
           <a className='button' href='/'>
