@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://imgur.com/a/4tYSUyx.jpg'
+            src='https://imgur.com/nxcnocA.jpg'
             alt='alexander baker'
           />
 
