@@ -10,12 +10,12 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://imgur.com/a/4tYSUyx'
+            src='https://imgur.com/a/4tYSUyx.jpg'
             alt='alexander baker'
           />
 
           <p className='description'>
-            I am a computer science major at the University of Colorado Boulder. In my free time I like to play video games, draw, play the violin, and code my own passion projects.
+            I am a computer science major at the University of Colorado Boulder. In my free time, I like to play video games, draw, play the violin, and code my own passion projects.
              My Link: https://app.netlify.com/sites/clinquant-gumption-a9cb53/deploys/654c5a314131302be5f0a0a3
           </p>
 
