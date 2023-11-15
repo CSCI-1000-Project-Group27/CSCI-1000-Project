@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://imgur.com/a/4tYSUyx'
+            src='<blockquote class="imgur-embed-pub" lang="en" data-id="a/4tYSUyx" data-context="false" ><a href="//imgur.com/a/4tYSUyx"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>'
             alt='alexander baker'
           />
 
