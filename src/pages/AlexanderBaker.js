@@ -6,17 +6,17 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Alex. </h1>
+            <h1 className='title'>Hey, I'm Alexander Baker. </h1>
           </div>
           <img
             className='pic'
-            src='file:///C:/Users/xxale/OneDrive/Documents/BOLD/1686265931622.jpg'
+            src='https://imgur.com/a/4tYSUyx'
             alt='alexander baker'
           />
 
           <p className='description'>
-            Hey I am Alex.
-             https://app.netlify.com/sites/clinquant-gumption-a9cb53/deploys/654c5a314131302be5f0a0a3
+            I am a computer science major at the University of Colorado Boulder. In my free time I like to play video games, draw, play the violin, and code my own passion projects.
+             My Link: https://app.netlify.com/sites/clinquant-gumption-a9cb53/deploys/654c5a314131302be5f0a0a3
           </p>
 
           <a className='button' href='/'>
