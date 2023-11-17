@@ -16,7 +16,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am Belle!"
+            "Hey I am Belle!"
           </p>
 
           <a className='button' href='/'>
