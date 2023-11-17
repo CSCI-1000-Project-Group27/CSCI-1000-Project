@@ -11,7 +11,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://imgur.com/a/DviBVfZ'
+            src='https://i.imgur.com/TlkSOED.jpeg'
             alt='belle van vliet'
           />
 
