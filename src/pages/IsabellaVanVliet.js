@@ -7,7 +7,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Belle. </h1>
+            <h1 className='title'>Hi, I'm Belle. </h1>
           </div>
           <img
             className='pic'
