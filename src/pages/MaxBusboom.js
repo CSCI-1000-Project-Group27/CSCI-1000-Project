@@ -15,7 +15,9 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hi, my name's Max!
+            Hi, my name's Max! I'm a first year computer science student at CU Boulder.
+            Some of my hobbies include reading, hiking, doing math, solving code challenges on Hackerrank, and running.
+            I hope to one day go into scientific computing, or maybe artificial intelligence research. 
             https://app.netlify.com/sites/effortless-kleicha-1d4e10/deploys/654c5c025df64f2b7ce9ff33
           </p>
 
