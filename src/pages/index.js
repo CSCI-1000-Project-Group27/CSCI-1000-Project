@@ -23,7 +23,7 @@ export default function Home() {
 
         <div className='grid'>
           
-                    <a href='/IsabellaVanvliet ' className='card'>
+          <a href='/IsabellaVanVliet ' className='card'>
             <h3>Belle's About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>

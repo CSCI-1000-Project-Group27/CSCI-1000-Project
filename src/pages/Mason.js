@@ -6,16 +6,20 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Mason Choi </h1>
+            <h1 className='title' style = {{color: '#0070f3'}}>
+              Hey, I'm Mason Choi </h1>
           </div>
           <img
             className='pic'
-            src='https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Colorado_Buffaloes_logo.svg/1200px-Colorado_Buffaloes_logo.svg.png'
-            alt='tom holland'
+            src='https://i.postimg.cc/wvZ6TpRC/A98-A8-BD9-5196-4900-ABBD-F7-C7-F4-C68-E3-C.jpg'
+            alt='Mason Choi'
           />
 
-          <p className='description'>
-            https://charming-biscochitos-c37577.netlify.app/
+          <p className='description' style={{ textAlign: 'center' }}>
+            Hi I'm Mason. I'm a freshman at CU Boulder studying to get my degree in computer Science. In my free time I like to watch shows and play video Games. 
+            I also like to play sports and take photos. 
+            <br />
+            https://charming-biscochitos-c37577.netlify.app/ 
           </p>
 
           <a className='button' href='/'>
@@ -61,7 +65,7 @@ export default function examplePage() {
           }
 
           .pic {
-            height: 450px;
+            height: 650px;
             width: 450px;
           }
 
@@ -107,6 +111,8 @@ export default function examplePage() {
             font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
               Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
               sans-serif;
+            background-color: #000000;
+            color: #ffffff;
           }
 
           * {
