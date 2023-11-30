@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='src/public/Headshot.jpg'
+            src='https://www.instagram.com/p/C0STrQKuG0dilP-WfgKk65vJDHP_Fn2M9SuOns0/'
             alt='Nikki Hanson'
           />
 
