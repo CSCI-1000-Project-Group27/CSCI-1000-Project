@@ -1,11 +1,11 @@
 export default function examplePage() {
     return (
       <div className='container'>
-        <title>Website</title>
+        <title>Mason's Page</title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
-          <div className='underline'>
+          <div className='title'>
             <h1 className='title' style = {{color: '#0070f3'}}>
               Hey, I'm Mason Choi </h1>
           </div>
@@ -28,6 +28,12 @@ export default function examplePage() {
         </main>
 
         <style jsx>{`
+
+          .fade-in {
+            opacity: 0;
+            transition: opacity 1s ease-out-in;
+          }
+
           .container {
             min-height: 100vh;
             padding: 0 0.5rem;
